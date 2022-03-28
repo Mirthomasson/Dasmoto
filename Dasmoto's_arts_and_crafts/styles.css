@@ -1,0 +1,36 @@
+* {
+	font-family: Helvetica, sans-serif;
+}
+h1 {
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	background-image: url(./resources/images/dasmotos-1.jpg);
+	text-align: center;
+}
+
+.first {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color: mediumspringgreen;
+}
+
+.second {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color: lightcoral;
+}
+
+.third {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color: skyblue;
+}
+
+.price {
+	font-weight: bold;
+	color: blue;
+}
